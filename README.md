@@ -5,13 +5,13 @@
 
 <div align="center">
 
-## [![pikkumon](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+pikkumon+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![pikkumon](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+pikkumon+WA+Bot+repo;Created+by+MECHZO+MCZ;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MECHZO PIKKU" src="https://img.shields.io/badge/MECHZO MCZ-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Mechzopikku"><img title="Author" src="https://img.shields.io/badge/Author-Mechzopikku/pikkumon?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click pikkumon logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/JtB4JCKzOrJAcpmSkHho2G" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -123,7 +123,7 @@ By establishing the pikkumon, you are deemed to have accepted these responsibili
     
   [![Mechzopikku](https://github.com/Mechzopikku.png?size=100)](https://github.com/Mechzopikku) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
-[Ameer Suhail](https://github.com/Mechzopikku) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Mechzo pikku](https://github.com/Mechzopikku) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
